@@ -1,2 +1,2 @@
-# danialmutalibs.github.io
-Danial Mutalib Junior Developer Portfolio
+# danialmutalibportfolio
+ Danial Mutalib Junior Developer Portfolio 
