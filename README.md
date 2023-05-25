@@ -1,2 +1,2 @@
 # danialmutalibportfolio
- Danial Mutalib Junior Developer Portfolio 
+Danial Mutalib Data Analyst Portfolio
